@@ -47,7 +47,7 @@ IDE (IntelliJ IDEA, VS Code ou Eclipse)
 
 🚀 Execução
 1. Clone o Repositório
-git clone <LINK DO SEU REPOSITÓRIO NO GITHUB>
+git clone https://github.com/MoisesNewtonPaiva/Hospedagem-Documentacao.git
 
 2. Configuração do Banco de Dados
 
